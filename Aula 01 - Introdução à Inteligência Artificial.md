@@ -1,9 +1,10 @@
 # Introdução à Inteligência Artificial
 
- ## **Objetivo**: 
- -Introduzir os conceitos básicos de IA, seu histórico e áreas de aplicação.
- --
- ## **Conteúdo**:
+  ## Objetivo: 
+  
+- Introduzir os conceitos básicos de IA, seu histórico e áreas de aplicação.
+ 
+ ## Conteúdo:
    - Definição e história da IA
    - Principais aplicações de IA
    - Áreas de pesquisa em IA
