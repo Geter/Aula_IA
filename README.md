@@ -16,17 +16,4 @@ Este repositório contém as aulas e materiais complementares para o curso de **
 ## Referências e Leituras Complementares
 - Consulte o arquivo [Referências](referencias/referencias.md) para uma lista de materiais recomendados, artigos acadêmicos e livros para aprofundar o conhecimento em Inteligência Artificial.
 
----
 
-## Como Contribuir
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua contribuição.
-3. Envie um pull request com uma breve descrição das melhorias ou novos conteúdos adicionados.
-
----
-
-## Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-```
-
-Este repositório tem uma estrutura organizada, com as aulas e materiais complementares em diretórios específicos, facilitando a navegação e o acesso ao conteúdo do curso.
