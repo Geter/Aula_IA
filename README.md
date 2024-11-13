@@ -7,27 +7,9 @@ Este repositório contém as aulas e materiais complementares para o curso de **
 
 ## Aulas
 
-### Aula 1: Introdução à Inteligência Artificial
-- **Objetivo**: Introduzir os conceitos básicos de IA, seu histórico e áreas de aplicação.
-- **Conteúdo**:
-  - Definição e história da IA
-  - Principais aplicações de IA
-  - Áreas de pesquisa em IA
-- **Material**:
-  - [📊 Slides da Aula 1](aula1_introducao/slides_aula1.pdf)
-  - [📚 Leituras Recomendadas](aula1_introducao/leitura_aula1.md)
-  - [📝 Exercícios Práticos](aula1_introducao/exercicios_aula1.md)
+### Aula 1: [Introdução à Inteligência Artificial](https://github.com/Geter/Aula_IA/blob/main/Aula%2001%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Intelig%C3%AAncia%20Artificial.md)
 
-### Aula 2: Aprendizado de Máquina
-- **Objetivo**: Explicar os conceitos fundamentais do aprendizado de máquina, tipos de aprendizado e exemplos práticos.
-- **Conteúdo**:
-  - Conceitos básicos de aprendizado de máquina
-  - Diferenças entre aprendizado supervisionado, não supervisionado e por reforço
-  - Exemplos práticos de uso do aprendizado de máquina
-- **Material**:
-  - [📊 Slides da Aula 2](aula2_aprendizadomaquina/slides_aula2.pdf)
-  - [📚 Leituras Recomendadas](aula2_aprendizadomaquina/leitura_aula2.md)
-  - [📝 Exercícios Práticos](aula2_aprendizadomaquina/exercicios_aula2.md)
+### Aula 2: [Aprendizado de Máquina](https://github.com/Geter/Aula_IA/blob/main/Aula%202:%20Aprendizado%20de%20M%C3%A1quina.md)
 
 ---
 
