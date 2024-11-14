@@ -11,7 +11,7 @@
    ---
    
  ## **Material**:
-   [📊 Slides da Aula 1](aula1_introducao/slides_aula1.pdf)
+   [📊 Slides da Aula 1](https://github.com/Geter/Aula_IA/blob/main/SlidesAula01.pdf)
    
    [📚 Leituras Recomendadas](aula1_introducao/leitura_aula1.md)
    
