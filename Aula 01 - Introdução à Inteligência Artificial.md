@@ -13,6 +13,9 @@
  ## **Material**:
    [📊 Slides da Aula 1](https://github.com/Geter/Aula_IA/blob/main/SlidesAula01.pdf)
    
-   [📚 Leituras Recomendadas](aula1_introducao/leitura_aula1.md)
+  [📝 Experimentos Práticos de I.A](https://github.com/idcesares/Experimentos-de-IA.git)
+
    
-   [📝 Exercícios Práticos](aula1_introducao/exercicios_aula1.md)
+   [📚 Leitura Recomendada](https://www.ibm.com/br-pt/topics/artificial-intelligence)
+   
+   
