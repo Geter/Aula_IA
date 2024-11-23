@@ -11,10 +11,10 @@
 ##
   **Material de apoio:**
   
-   [📊 Slides da Aula 2](aula2_aprendizadomaquina/slides_aula2.pdf)
+   [📊 Slides da Aula 2](https://www.canva.com/design/DAGWx4r3Mlc/6aBfLokDBRNUIw6h8pZw4A/edit)
    
    [📚 Leituras Recomendadas](aula2_aprendizadomaquina/leitura_aula2.md)
    
-   [📝 Exercícios Práticos](aula2_aprendizadomaquina/exercicios_aula2.md)
+   [📝 Exercícios Práticos](https://keiwan.itch.io/evolution)
 
 ---
