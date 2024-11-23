@@ -13,7 +13,9 @@
   
    [📊 Slides da Aula 2](https://www.canva.com/design/DAGWx4r3Mlc/6aBfLokDBRNUIw6h8pZw4A/edit)
    
-   [📚 Leituras Recomendadas](aula2_aprendizadomaquina/leitura_aula2.md)
+   [📚 Material complementar 1(https://serrano.academy/general-machine-learning/)
+
+   [📚 Material complementar 2(https://www.youtube.com/@UniversoProgramado)
    
    [📝 Exercícios Práticos](https://keiwan.itch.io/evolution)
 
